@@ -1,0 +1,33 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/edison/Desktop/ss/7MinuteWorkout/app/src/main/res/drawable/circular_progress_bar.xml" value="0.2475" />
+        <entry key="..\:/Users/edison/Desktop/ss/7MinuteWorkout/app/src/main/res/drawable/circular_progress_gray.xml" value="0.2475" />
+        <entry key="..\:/Users/edison/Desktop/ss/7MinuteWorkout/app/src/main/res/drawable/drawable_radio_group_tab_background.xml" value="0.1635" />
+        <entry key="..\:/Users/edison/Desktop/ss/7MinuteWorkout/app/src/main/res/drawable/drawable_units_tab_selector.xml" value="0.1635" />
+        <entry key="..\:/Users/edison/Desktop/ss/7MinuteWorkout/app/src/main/res/drawable/drawable_units_tab_text_color_selector.xml" value="0.1635" />
+        <entry key="..\:/Users/edison/Desktop/ss/7MinuteWorkout/app/src/main/res/drawable/item_circular_color_accent_background.xml" value="0.2405" />
+        <entry key="..\:/Users/edison/Desktop/ss/7MinuteWorkout/app/src/main/res/drawable/item_circular_color_accent_border.xml" value="0.2475" />
+        <entry key="..\:/Users/edison/Desktop/ss/7MinuteWorkout/app/src/main/res/drawable/item_circular_color_gray_background.xml" value="0.136" />
+        <entry key="..\:/Users/edison/Desktop/ss/7MinuteWorkout/app/src/main/res/drawable/item_circular_this_color_accent_border.xml" value="0.155" />
+        <entry key="..\:/Users/edison/Desktop/ss/7MinuteWorkout/app/src/main/res/drawable/item_color_accent_border_ripple_background.xml" value="0.2475" />
+        <entry key="..\:/Users/edison/Desktop/ss/7MinuteWorkout/app/src/main/res/layout/activity_bmi.xml" value="0.26132246376811596" />
+        <entry key="..\:/Users/edison/Desktop/ss/7MinuteWorkout/app/src/main/res/layout/activity_exercise.xml" value="0.33" />
+        <entry key="..\:/Users/edison/Desktop/ss/7MinuteWorkout/app/src/main/res/layout/activity_finish.xml" value="0.20652173913043478" />
+        <entry key="..\:/Users/edison/Desktop/ss/7MinuteWorkout/app/src/main/res/layout/activity_history.xml" value="0.22418478260869565" />
+        <entry key="..\:/Users/edison/Desktop/ss/7MinuteWorkout/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/edison/Desktop/ss/7MinuteWorkout/app/src/main/res/layout/dialog_custom_back_confirmation.xml" value="0.33" />
+        <entry key="..\:/Users/edison/Desktop/ss/7MinuteWorkout/app/src/main/res/layout/drawable_units_tab_selector.xml" value="0.22" />
+        <entry key="..\:/Users/edison/Desktop/ss/7MinuteWorkout/app/src/main/res/layout/item_exercise_status.xml" value="0.33" />
+        <entry key="..\:/Users/edison/Desktop/ss/7MinuteWorkout/app/src/main/res/layout/item_history_row.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
